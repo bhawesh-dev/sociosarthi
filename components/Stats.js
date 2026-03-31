@@ -24,8 +24,8 @@ export default function Stats() {
           let r = 0, c = 0, e = 0, g = 0;
 
           const interval = setInterval(() => {
-            if (r < 2000000) {
-              r += 20000;
+            if (r < 100000000) {
+              r += 1000000;
               setReach(r);
             }
 
@@ -44,7 +44,7 @@ export default function Stats() {
               setGrowth(g);
             }
 
-            if (r >= 2000000 && c >= 98 && e >= 5 && g >= 300) {
+            if (r >= 100000000 && c >= 98 && e >= 5 && g >= 300) {
               clearInterval(interval);
             }
           }, 30);
@@ -70,7 +70,7 @@ export default function Stats() {
 
         <div>
           <h2 className="text-4xl md:text-5xl font-bold text-blue-400">
-            {reach >= 1000000 ? "2M+" : `${Math.floor(reach / 1000)}K`}
+            {reach >= 100000000 ? "100M+" : `${Math.floor(reach / 1000000)}M`}
           </h2>
           <p className="text-gray-400 mt-2">Reach Generated</p>
         </div>
