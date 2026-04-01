@@ -25,18 +25,18 @@ export default function About() {
 
                 <p className="text-gray-400 mb-4 text-lg">
                 At SocioSarthi, we go beyond reels and posts. We combine 
-                <span className="text-white font-medium"> strategy, creativity, and psychology </span>
+                <span className="text-white font-medium"> strategy, creativity and psychology </span>
                 to craft a strong and consistent digital presence.
                 </p>
 
                 <p className="text-gray-400 mb-4 text-lg">
                 From institutions and schools to personal brands and businesses, we work as 
-                <span className="text-white font-medium"> long-term digital partners</span> — aligning content with real goals like growth, reputation, and engagement.
+                <span className="text-white font-medium"> long-term digital partners</span> — aligning content with real goals like growth, reputation and engagement.
                 </p>
 
                 <p className="text-gray-400 text-lg">
                 Our approach blends 
-                <span className="text-blue-400"> branding, high-quality visuals, and performance insights </span>
+                <span className="text-blue-400"> branding, high-quality visuals and performance insights </span>
                 to deliver results that actually matter.
                 </p>
 
@@ -68,7 +68,7 @@ export default function About() {
       The People Behind SocioSarthi
     </h3>
     <p className="text-gray-400">
-      Meet the minds driving strategy, creativity, and technology
+      Meet the minds driving strategy, creativity and technology
     </p>
   </div>
 
@@ -114,10 +114,10 @@ export default function About() {
     </p>
 
     <p className="text-gray-200 text-base leading-relaxed">
-      Digital media strategist with 6+ years of experience in content, branding, and growth systems. 
+      Digital media strategist with 6+ years of experience in content, branding and growth systems. 
       Worked with platforms like Brut India and education brands, delivering real scale — including 
       growing audiences to 700K+. Focused on building strong digital positioning that drives trust, 
-      perception, and measurable growth.
+      perception and measurable growth.
     </p>
 
   </div>
@@ -161,8 +161,8 @@ export default function About() {
 
     <p className="text-gray-200 text-base leading-relaxed">
       AI & Cybersecurity student at IIT Patna with expertise in data systems and automation. 
-      Leads AI-driven content workflows, analytics, and system design — ensuring every creative 
-      decision is backed by intelligent, scalable, and secure digital infrastructure.
+      Leads AI-driven content workflows, analytics and system design — ensuring every creative 
+      decision is backed by intelligent, scalable and secure digital infrastructure.
     </p>
 
   </div>

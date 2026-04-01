@@ -38,7 +38,7 @@ export default function Services() {
           </h2>
 
           <p className="text-gray-400 mt-4">
-            We build content systems that drive growth, visibility, and brand positioning.
+            We build content systems that drive growth, visibility and brand positioning.
           </p>
 
         </div>
@@ -61,7 +61,7 @@ export default function Services() {
 
             <p className="text-gray-400 text-sm leading-relaxed">
               Complete handling of your social platforms with consistent posting,
-              audience engagement, and growth-focused execution.
+              audience engagement and growth-focused execution.
             </p>
 
           </div>
@@ -78,7 +78,7 @@ export default function Services() {
             </h3>
 
             <p className="text-gray-400 text-sm leading-relaxed">
-              High-quality reels, posts, and visual storytelling designed to capture
+              High-quality reels, posts and visual storytelling designed to capture
               attention and build a strong digital presence.
             </p>
 
@@ -114,7 +114,7 @@ export default function Services() {
             </h3>
 
             <p className="text-gray-400 text-sm leading-relaxed">
-              Data-driven strategies, analytics, and optimization to ensure your
+              Data-driven strategies, analytics and optimization to ensure your
               digital efforts translate into measurable results.
             </p>
 

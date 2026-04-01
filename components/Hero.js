@@ -29,7 +29,7 @@ export default function Hero() {
   {/* DESCRIPTION */}
   <p className="text-lg md:text-xl text-gray-400 mb-10 max-w-2xl">
     Transform your social media presence with data-driven strategies,
-    cutting-edge technology, and creative excellence.
+    cutting-edge technology and creative excellence.
   </p>
 
   {/* BUTTONS */}

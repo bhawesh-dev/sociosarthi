@@ -7,13 +7,13 @@ export default function Portfolio() {
       name: "Chapter 10 Education",
       images: ["/c1.png", "/c2.png", "/c3.png"],
       short: "Launch & brand visibility",
-      long: "Partnered from the ground up to establish a strong digital presence, creating awareness, building trust, and positioning the institute effectively among its target audience.",
+      long: "Partnered from the ground up to establish a strong digital presence, creating awareness, building trust and positioning the institute effectively among its target audience.",
     },
     {
       name: "Ajay CTET Classes",
       images: ["/a1.png", "/a2.png", "/a3.png"],
       short: "Offline to digital expansion",
-      long: "Transformed an established offline coaching brand into a strong online presence through strategic content, campaign execution, and platform-focused growth initiatives.",
+      long: "Transformed an established offline coaching brand into a strong online presence through strategic content, campaign execution and platform-focused growth initiatives.",
     },
     {
       name: "Brut India",
@@ -31,7 +31,7 @@ export default function Portfolio() {
       name: "Board Easy",
       images: ["/be1.png", "/be2.png", "/be3.png"],
       short: "Content & platform growth",
-      long: "Handled end-to-end content strategy including long-form video production and social media management, improving reach, consistency, and audience engagement.",
+      long: "Handled end-to-end content strategy including long-form video production and social media management, improving reach, consistency and audience engagement.",
     },
   ];
 
@@ -186,7 +186,7 @@ export default function Portfolio() {
 
       <p className="text-gray-300 mb-4 leading-relaxed">
         “Before working with Socio Sarthi, our presence was limited to offline. 
-        They helped us bring our institute online with clarity, consistency, and a clear content direction. 
+        They helped us bring our institute online with clarity, consistency and a clear content direction. 
         Now, our audience actually engages with what we put out.”
             </p>
 
