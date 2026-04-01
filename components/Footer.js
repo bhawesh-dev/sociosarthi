@@ -17,7 +17,7 @@ export default function Footer() {
 
           <p className="text-gray-400 leading-relaxed">
             Next-generation social media management focused on growth,
-            positioning, and real digital impact.
+            positioning and real digital impact.
           </p>
         </div>
 
