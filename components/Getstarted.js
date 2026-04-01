@@ -146,12 +146,12 @@ export default function GetStarted() {
             <div>
               <p className="text-gray-300 font-medium">Email</p>
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshu@sociosarthi.com&su=Inquiry from Website"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshu@sociosarthi.in&su=Inquiry from Website"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition"
                 >
-                divyanshu@sociosarthi.com
+                divyanshu@sociosarthi.in
                 </a>
             </div>
           </div>
