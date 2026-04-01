@@ -29,7 +29,14 @@ export default function Footer() {
             <li><a href="#services" className="hover:text-white transition">Services</a></li>
             <li><a href="#portfolio" className="hover:text-white transition">Portfolio</a></li>
             <li><a href="#get-started" className="hover:text-white transition">Contact</a></li>
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDQ0VKJz_041xxxp3Y_CjHe_wp4LFbQxipD52YWmJilt7XMA/viewform?usp=publish-editor" className="hover:text-white transition">Career</a></li>
+            <li><a 
+                href="https://docs.google.com/forms/d/e/1FAIpQLSeDQ0VKJz_041xxxp3Y_CjHe_wp4LFbQxipD52YWmJilt7XMA/viewform?usp=publish-editor" 
+                className="hover:text-white transition"
+                target="_blank" 
+                rel="noopener noreferrer"
+                >
+                Careers
+                </a></li>
           </ul>
         </div>
 

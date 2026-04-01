@@ -144,7 +144,7 @@ export default function About() {
     </h4>
 
     <p className="text-blue-300 text-sm">
-      Co-Founder
+      Co-Founder & CTO
     </p>
 
   </div>
@@ -156,7 +156,7 @@ export default function About() {
     </h4>
 
     <p className="text-blue-400 text-sm mb-4">
-      Co-Founder
+      Co-Founder & CTO
     </p>
 
     <p className="text-gray-200 text-base leading-relaxed">
